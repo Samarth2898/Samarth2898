@@ -5,6 +5,8 @@ Few things about me:
 - 🔭 I’m currently working as a backend developer, building map related APIs in Golang.
 - 🌱 I’m currently learning how to build scalable and distributed systems. 
 - 👯 I’m looking to collaborate on any cool open source projects mostly in Golang and python.
+- :man_singer: Passionate about music.
+- :climbing: Love exploring places.
 - 📫 How to reach me: 
   <p align="center">
   <a href="https://www.linkedin.com/in/samarth-aasoori-4885b7153/">
