@@ -3,7 +3,7 @@
 Few things about me:
 
 - 🔭 I’m currently working as a backend developer, building map related APIs in Golang.
-- 🌱 building scalable and distributed systems is what interests me the most. 
+- 🌱 building scalable and distributed applications is what interests me currently. 
 - 👯 Looking to collaborate on any cool open source projects mostly in Golang and python.
 - :hearts: Music, finance and sports.
 - :climbing: Love exploring places.
