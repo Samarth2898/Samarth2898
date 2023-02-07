@@ -13,7 +13,7 @@ Few things about me:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&color=blue" alt="Samarth's Linkedin"/>
   </a>
   <a href="https://www.youtube.com/channel/UCJHwJHJ193pqUbpdN5LOI1g">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCJHwJHJ193pqUbpdN5LOI1g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Samarth Sudarshan's YouTube channel"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Samarth Sudarshan's YouTube channel"/>
 </p>
 
 
