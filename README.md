@@ -14,9 +14,6 @@ Few things about me:
   </a>
   <a href="https://www.youtube.com/channel/UCJHwJHJ193pqUbpdN5LOI1g">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCJHwJHJ193pqUbpdN5LOI1g?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Samarth Sudarshan's YouTube channel"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth2898">
-  </a>
 </p>
 
 
