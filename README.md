@@ -2,7 +2,7 @@
 
 Few things about me:
 
-- 🔭 backend developer.
+- 🔭 backend developer and a DevOps enthusiast.
 - 🌱 building scalable and distributed services/applications is what interests me. 
 - 👯 Looking to collaborate on any cool open source projects mostly in Golang and python.
 - :hearts: Music, finance and sports.
