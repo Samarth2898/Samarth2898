@@ -9,7 +9,7 @@ Few things about me:
 - :climbing: Love exploring places.
 - 📫 Can reach out to me on 👇: 
   <p align="center">
-  <a href="https://www.linkedin.com/in/samarth-aasoori-4885b7153/">
+  <a href="https://www.linkedin.com/in/samarth-sudarshan-4885b7153/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&color=blue" alt="Samarth's Linkedin"/>
   </a>
   <a href="https://www.youtube.com/channel/UCJHwJHJ193pqUbpdN5LOI1g">
